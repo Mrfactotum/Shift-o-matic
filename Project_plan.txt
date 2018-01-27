@@ -1,0 +1,55 @@
+
+Shiftomatic Staffing Calculator Plan
+
+The Problem to solve: It takes hours to layout staffing rosters taking
+into account public holdays, staff vacations, day and night shifts and
+the maximum number of hours each employee should work. It also takes
+employees a long time to determine how many additional daily workers are 
+neeed if the existing staff can't cover for them. This problem is the 
+same across many countries with differing labor laws.
+
+The solution: A program that automates shift planning given an input
+of different user defined parameters. 
+
+The output: Individual calendars for staff and a master calendar for 
+supervisors in Excel format.
+
+Users: Low computer knowledge workers, in multiple countries
+writing in multiple languages, who have only a basic understanding
+of how computers work. A simple GUI and ways to correct mistakes will be
+necessary.
+
+Target Computers: Windows machines Linux, OSX and
+even being able to put it on a website. Initially it should work on Windows
+machines
+
+
+Variables the user will need to input.
+Language: French or English (the program then switches to that language)
+
+Day shift, night shift, swing shifts and vacations 
+should be noted by a letter or word so people can easily read it
+on the printed calendar. Calendars should be accessible to people who
+cannot read well so simplicity is important. 
+
+Calendars should be formated to fit on an A4 sheet of paper. 
+
+
+
+#To do: Import modules
+
+#To do: Create variables for user inputs
+#Variables: to create, month and year for calendar. Names of staff (0-inf)
+#Number of hours in a day shift, number of hours in a night shift, 
+#hours in a swing shift, dates of each employees' paid vacation start and end,
+#date of any public holidays during the month, max hours an employee can
+#work per month. unpaid vacation or leave for each employee if known, 
+#number of days in a working week, number of day shifts needed between-
+#night shifts, max number of consecutive night shifts allowed per 
+#employee
+
+#To do: calculate the shifts given the user input
+
+#Export calendars: to a user defined spot on their computer
+
+
