@@ -1,6 +1,14 @@
 
 Shiftomatic Staffing Calculator Plan
 
+Steps
+1) Define problem
+2) Learn how to create a calendar in Python
+3) Learn how to print this calendar in excel format
+4) Learn how to add tasks or test to this calendar in a formatted way
+5) (Simplfy the problem)Create an algorithm that can work with a team
+of two people working only day shifts 
+
 The Problem to solve: It takes hours to layout staffing rosters taking
 into account public holdays, staff vacations, day and night shifts and
 the maximum number of hours each employee should work. It also takes
@@ -38,7 +46,7 @@ Calendars should be formated to fit on an A4 sheet of paper.
 
 #To do: Import modules
 
-#To do: Create variables for user inputs
+#To do: Create variables for user inputs.
 #Variables: to create, month and year for calendar. Names of staff (0-inf)
 #Number of hours in a day shift, number of hours in a night shift, 
 #hours in a swing shift, dates of each employees' paid vacation start and end,
